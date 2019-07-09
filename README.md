@@ -1,9 +1,5 @@
 # CSGO Commend Bot
 
-**A new version has been released, view the [Experimental](https://github.com/BeepFelix/csgo-commend-bot/tree/experimental) branch to use it.**
-
----
-
 This is a simple commend bot written in JavaScript, simply because its the language I am the most familiar with.
 
 # Side features
